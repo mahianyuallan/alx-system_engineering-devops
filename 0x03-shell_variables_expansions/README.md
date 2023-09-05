@@ -1,1 +1,2 @@
-Shell Variable Expansions
+- This project really doubles down on enhancing one's knowledge of shell variables and how they are used.
+- Each task is unique and has a specific objective for completion
