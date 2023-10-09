@@ -4,7 +4,7 @@
 
 </hr>
 
-![GitHub Logo](./images/DevOps.png)
+![GitHub Logo](https://github.com/nickssilver/alx-system_engineering-devops/blob/master/images/DevOps.png)
 <div align="center">
 DevOps is a software development approach that emphasizes collaboration, communication, and integration between developers and operations teams. It is an extension of the Agile methodology and focuses on automating the software development process to improve the speed, quality, and efficiency of software delivery.
 
